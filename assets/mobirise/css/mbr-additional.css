@@ -787,87 +787,6 @@ a {
 .titulus > .mbr-iconfont {
   font-size: 2rem;
 }
-.cid-v9rc6Ukn3I {
-  display: flex;
-  background-image: url("../../../assets/images/codioful-formerly-gradienta-bkesvqfxass-unsplash-2000x1333.jpg");
-}
-.cid-v9rc6Ukn3I .mbr-overlay {
-  background-color: #f92c50;
-  opacity: 0.5;
-}
-.cid-v9rc6Ukn3I .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-v9rc6Ukn3I .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-.cid-v9rc6Ukn3I .content-wrap {
-  padding: 5rem 1rem;
-}
-@media (min-width: 992px) {
-  .cid-v9rc6Ukn3I .content-wrap {
-    padding: 5rem 3rem;
-  }
-}
-@media (min-width: 768px) {
-  .cid-v9rc6Ukn3I {
-    align-items: center;
-  }
-  .cid-v9rc6Ukn3I .row {
-    justify-content: center;
-  }
-}
-@media (max-width: 991px) and (min-width: 768px) {
-  .cid-v9rc6Ukn3I .content-wrap {
-    min-width: 50%;
-  }
-}
-@media (max-width: 767px) {
-  .cid-v9rc6Ukn3I {
-    -webkit-align-items: center;
-    align-items: center;
-  }
-  .cid-v9rc6Ukn3I .mbr-row {
-    -webkit-justify-content: center;
-    justify-content: center;
-  }
-  .cid-v9rc6Ukn3I .content-wrap {
-    width: 100%;
-  }
-}
-.cid-v9rc6Ukn3I .mbr-section-title {
-  text-align: center;
-}
-.cid-v9rc6Ukn3I .mbr-text,
-.cid-v9rc6Ukn3I .mbr-section-btn {
-  text-align: center;
-}
-.cid-v9r6MzWW8l {
-  padding-top: 1rem;
-  padding-bottom: 0rem;
-  background-color: #ffffff;
-}
-.cid-v9r6MzWW8l .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-v9r6MzWW8l .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-.cid-v9r6MzWW8l .mbr-side-description {
-  text-align: center;
-}
 .cid-v9r9PZ8P8l {
   z-index: 1000;
   width: 100%;
@@ -1426,6 +1345,87 @@ a {
   .cid-v9r9PZ8P8l .navbar-collapse {
     padding: 1rem;
   }
+}
+.cid-v9rc6Ukn3I {
+  display: flex;
+  background-image: url("../../../assets/images/codioful-formerly-gradienta-bkesvqfxass-unsplash-2000x1333.jpg");
+}
+.cid-v9rc6Ukn3I .mbr-overlay {
+  background-color: #f92c50;
+  opacity: 0.5;
+}
+.cid-v9rc6Ukn3I .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-v9rc6Ukn3I .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-v9rc6Ukn3I .content-wrap {
+  padding: 5rem 1rem;
+}
+@media (min-width: 992px) {
+  .cid-v9rc6Ukn3I .content-wrap {
+    padding: 5rem 3rem;
+  }
+}
+@media (min-width: 768px) {
+  .cid-v9rc6Ukn3I {
+    align-items: center;
+  }
+  .cid-v9rc6Ukn3I .row {
+    justify-content: center;
+  }
+}
+@media (max-width: 991px) and (min-width: 768px) {
+  .cid-v9rc6Ukn3I .content-wrap {
+    min-width: 50%;
+  }
+}
+@media (max-width: 767px) {
+  .cid-v9rc6Ukn3I {
+    -webkit-align-items: center;
+    align-items: center;
+  }
+  .cid-v9rc6Ukn3I .mbr-row {
+    -webkit-justify-content: center;
+    justify-content: center;
+  }
+  .cid-v9rc6Ukn3I .content-wrap {
+    width: 100%;
+  }
+}
+.cid-v9rc6Ukn3I .mbr-section-title {
+  text-align: center;
+}
+.cid-v9rc6Ukn3I .mbr-text,
+.cid-v9rc6Ukn3I .mbr-section-btn {
+  text-align: center;
+}
+.cid-v9r6MzWW8l {
+  padding-top: 1rem;
+  padding-bottom: 0rem;
+  background-color: #ffffff;
+}
+.cid-v9r6MzWW8l .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-v9r6MzWW8l .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-v9r6MzWW8l .mbr-side-description {
+  text-align: center;
 }
 .cid-tMlEXTHLbS {
   padding-top: 4rem;
@@ -2323,28 +2323,6 @@ a {
 .cid-v9GHbBssJu header-menu-item {
   color: #ffffff;
 }
-.cid-v9r8ca4KUL {
-  background-image: url("../../../assets/images/codioful-formerly-gradienta-bkesvqfxass-unsplash-3-2000x1333.jpeg");
-}
-.cid-v9r8ca4KUL .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-v9r8ca4KUL .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-.cid-v9r8ca4KUL .mbr-side-description {
-  text-align: left;
-  color: #ffffff;
-}
-.cid-v9r8ca4KUL .mbr-description {
-  color: #ffffff;
-}
 .cid-v9r9PZ8P8l {
   z-index: 1000;
   width: 100%;
@@ -2903,6 +2881,28 @@ a {
   .cid-v9r9PZ8P8l .navbar-collapse {
     padding: 1rem;
   }
+}
+.cid-v9r8ca4KUL {
+  background-image: url("../../../assets/images/codioful-formerly-gradienta-bkesvqfxass-unsplash-3-2000x1333.jpeg");
+}
+.cid-v9r8ca4KUL .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-v9r8ca4KUL .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-v9r8ca4KUL .mbr-side-description {
+  text-align: left;
+  color: #ffffff;
+}
+.cid-v9r8ca4KUL .mbr-description {
+  color: #ffffff;
 }
 .cid-v9GH0L68py {
   padding-top: 0rem;
@@ -3715,63 +3715,6 @@ a {
 .cid-v9GHbBssJu header-menu-item {
   color: #ffffff;
 }
-.cid-v9reYApCZq {
-  display: flex;
-  padding-top: 9rem;
-  padding-bottom: 0rem;
-  background-image: url("../../../assets/images/codioful-formerly-gradienta-bkesvqfxass-unsplash-2000x1333.jpeg");
-}
-.cid-v9reYApCZq .mbr-overlay {
-  background-color: #000000;
-  opacity: 0;
-}
-.cid-v9reYApCZq .content-wrap {
-  padding: 5rem 1rem;
-}
-@media (min-width: 992px) {
-  .cid-v9reYApCZq .content-wrap {
-    padding: 5rem 3rem;
-  }
-}
-@media (min-width: 768px) {
-  .cid-v9reYApCZq {
-    align-items: center;
-  }
-  .cid-v9reYApCZq .row {
-    justify-content: center;
-  }
-}
-@media (max-width: 991px) and (min-width: 768px) {
-  .cid-v9reYApCZq .content-wrap {
-    min-width: 50%;
-  }
-}
-@media (max-width: 767px) {
-  .cid-v9reYApCZq {
-    -webkit-align-items: center;
-    align-items: center;
-  }
-  .cid-v9reYApCZq .mbr-row {
-    -webkit-justify-content: center;
-    justify-content: center;
-  }
-  .cid-v9reYApCZq .content-wrap {
-    width: 100%;
-  }
-}
-.cid-v9reYApCZq .mbr-section-title {
-  text-align: center;
-  color: #ffffff;
-}
-.cid-v9reYApCZq .mbr-text,
-.cid-v9reYApCZq .mbr-section-btn {
-  text-align: center;
-  color: #ffffff;
-}
-.cid-v9reYApCZq .mbr-description {
-  text-align: center;
-  color: #ffffff;
-}
 .cid-v9r9PZ8P8l {
   z-index: 1000;
   width: 100%;
@@ -4330,6 +4273,63 @@ a {
   .cid-v9r9PZ8P8l .navbar-collapse {
     padding: 1rem;
   }
+}
+.cid-v9reYApCZq {
+  display: flex;
+  padding-top: 9rem;
+  padding-bottom: 0rem;
+  background-image: url("../../../assets/images/codioful-formerly-gradienta-bkesvqfxass-unsplash-2000x1333.jpeg");
+}
+.cid-v9reYApCZq .mbr-overlay {
+  background-color: #000000;
+  opacity: 0;
+}
+.cid-v9reYApCZq .content-wrap {
+  padding: 5rem 1rem;
+}
+@media (min-width: 992px) {
+  .cid-v9reYApCZq .content-wrap {
+    padding: 5rem 3rem;
+  }
+}
+@media (min-width: 768px) {
+  .cid-v9reYApCZq {
+    align-items: center;
+  }
+  .cid-v9reYApCZq .row {
+    justify-content: center;
+  }
+}
+@media (max-width: 991px) and (min-width: 768px) {
+  .cid-v9reYApCZq .content-wrap {
+    min-width: 50%;
+  }
+}
+@media (max-width: 767px) {
+  .cid-v9reYApCZq {
+    -webkit-align-items: center;
+    align-items: center;
+  }
+  .cid-v9reYApCZq .mbr-row {
+    -webkit-justify-content: center;
+    justify-content: center;
+  }
+  .cid-v9reYApCZq .content-wrap {
+    width: 100%;
+  }
+}
+.cid-v9reYApCZq .mbr-section-title {
+  text-align: center;
+  color: #ffffff;
+}
+.cid-v9reYApCZq .mbr-text,
+.cid-v9reYApCZq .mbr-section-btn {
+  text-align: center;
+  color: #ffffff;
+}
+.cid-v9reYApCZq .mbr-description {
+  text-align: center;
+  color: #ffffff;
 }
 .cid-v9rk14OE4d {
   padding-top: 0rem;
