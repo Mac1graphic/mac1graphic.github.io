@@ -358,7 +358,7 @@
       "settings": {
         "title": "Portfolió",
         "order": "1",
-        "meta_image": "@PROJECT_PATH@/assets/images/new20logo20png-1000x1000.png",
+        "meta_image": "@PROJECT_PATH@/assets/images/new%2520logo%2520png-1000x1000.png",
         "meta_descr": "Tekintsd meg a portfóliómat, ahol eddigi munkáimon keresztül betekintést nyerhetsz a stílusomba és a gondolkodásmódomba.\nBővítsük együtt a gallériám"
       },
       "components": [
@@ -2750,7 +2750,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "meta_image": "@PROJECT_PATH@/assets/images/new20logo20png-1000x1000.png"
+        "meta_image": "@PROJECT_PATH@/assets/images/new%2520logo%2520png-1000x1000.png"
       },
       "components": [
         {
@@ -3959,7 +3959,7 @@
       "settings": {
         "title": "Árak",
         "order": "2",
-        "meta_image": "@PROJECT_PATH@/assets/images/new20logo20png-1000x1000.png",
+        "meta_image": "@PROJECT_PATH@/assets/images/new%2520logo%2520png-1000x1000.png",
         "meta_descr": "Kérj egyedi árajánlatot nagyobb vagy kisebb projectekhez"
       },
       "components": [
