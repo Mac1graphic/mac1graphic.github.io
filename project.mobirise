@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "index.html",
+    "currentPage": "portfolio.html",
     "theme": {
       "name": "startm5",
       "title": "StartM5",
@@ -2961,7 +2961,7 @@
         }
       ]
     },
-    "arak.html": {
+    "Árak.html": {
       "settings": {
         "title": "Árak",
         "order": "2",
@@ -4169,7 +4169,7 @@
         }
       ]
     },
-    "ajanlatkeres.html": {
+    "Ajánlatkérés.html": {
       "settings": {
         "title": "Ajánlatkérés",
         "order": "3",
